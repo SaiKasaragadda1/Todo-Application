@@ -94,7 +94,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>My First Web App deploy</finalName>
+		<finalName>webapp-deploy</finalName>
 	</build>
 
 </project>
